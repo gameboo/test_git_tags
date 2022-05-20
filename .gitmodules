@@ -1,0 +1,3 @@
+[submodule "test_git_tags_nested"]
+	path = test_git_tags_nested
+	url = ./test_git_tags_nested/
